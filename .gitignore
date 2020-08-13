@@ -3,3 +3,6 @@ secrets.h
 
 # .DS_store banished
 .DS_Store
+
+# .vscode banished
+.vscode
